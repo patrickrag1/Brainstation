@@ -11,7 +11,7 @@ A Repository for Brainstation.
 			<header>
 				<div class="row top-section">
 					<div class="large-4 medium-4 small-8 columns">
-						<p>The 3 stooges</p>
+						<p>Talal ELagha, Muhamed Riz,</p>
 					</div>
 					<div class="small-4 columns">
 					</div>
