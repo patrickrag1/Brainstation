@@ -11,7 +11,7 @@ A Repository for Brainstation.
 			<header>
 				<div class="row top-section">
 					<div class="large-4 medium-4 small-8 columns">
-						<p>Talal ELagha, Muhamed Riz and Matthew Radocchia </p>
+						<p>Talal ELagha, Muhamed Riz, Matthew Radocchia and Sean (your last name here) </p>
 					</div>
 					<div class="small-4 columns">
 					</div>
