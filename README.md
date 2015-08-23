@@ -11,7 +11,8 @@ A Repository for Brainstation.
 			<header>
 				<div class="row top-section">
 					<div class="large-4 medium-4 small-8 columns">
-						<p>Talal Elagha, Muhamed Riz, Matthew Radocchia and Sean (your last name here) </p>
+					<h1>Why cancer should get cancer and die </h1>
+						<p> Written,Produced and edited by:Talal Elagha, Muhamed Riz, Matthew Radocchia and Sean (your last name here) </p>
 					</div>
 					<div class="small-4 columns">
 					<p>Here on this site we will teach about cancer and how it affects the world we live in. And if you agree with what we say on this site, dont forget to Donate.</p>
