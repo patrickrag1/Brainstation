@@ -10,12 +10,12 @@ A Repository for Brainstation.
 		<body>
 			<header>
 				<div class="row top-section">
-					<div class="large-4 medium-4 small-8 columns">
+					<div class="col-lg-4 col-md-4 col-sm-8">
 						<p>Talal ELagha, Muhamed Riz, Matthew Radocchia and Sean (your last name here) </p>
 					</div>
-					<div class="small-4 columns">
+					<div class="col-sm-4">
 					</div>
-					<div class="large-8 medium-8 columns">
+					<div class="col-lg-8 col-md-8">
 					</div>
 				</div>
 				<section class="large-nav hide-for-small">
