@@ -14,6 +14,7 @@ A Repository for Brainstation.
 						<p>Talal Elagha, Muhamed Riz, Matthew Radocchia and Sean (your last name here) </p>
 					</div>
 					<div class="small-4 columns">
+					<p>Here on this site we will teach about cancer and how it affects the world we live in. And if you agree with what we say on this site, dont forget to Donate.</p>
 					</div>
 					<div class="large-8 medium-8 columns">
 					</div>
